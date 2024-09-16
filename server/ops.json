@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "1aaea8f1-820c-45d1-9cce-9bdbe8870167",
+    "name": "SheR",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fc4b04a4-571c-3e00-8354-c038e16ccc1b",
+    "name": "Gambit",
+    "level": 0,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9970062f-0aa4-39e2-9d1a-136db5b6bc95",
+    "name": "sher",
+    "level": 0,
+    "bypassesPlayerLimit": true
+  }
+]
